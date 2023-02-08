@@ -1,0 +1,41 @@
+.Login {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+.LoginCard {
+    background-color: #fff;
+    background-clip: border-box;
+    border: 1px solid rgba(72, 94, 144, 0.16);
+    border-radius: 0.25rem;
+    box-shadow: 0 7px 14px 0 rgb(65 69 88 / 10%), 0 3px 6px 0 rgb(0 0 0 / 7%);
+    display: flex;
+    flex-direction: column;
+    padding: 15px;
+}
+
+.LogoContainer {
+    margin: auto;
+}
+
+.logoImage {
+    width: 8rem;
+}
+
+.LoginBtn {
+    width: 100% !important;
+    background-color: #579DE3 !important;
+    color: white !important;
+}
+
+.FormContainer {
+    display: flex;
+    flex-direction: column;
+    gap: 15px;
+}
+
+.FormContainer > div{
+    display: grid;
+}

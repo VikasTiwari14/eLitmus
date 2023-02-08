@@ -1,0 +1,42 @@
+.Dashboard{
+    width: 60%;
+    margin: auto;
+    background-color: white;
+    min-height: 100vh;
+    padding: 0 20px;
+}
+
+.DashboardHeader{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.DashboardHeaderRight{
+    display: flex;
+    justify-content: end;
+    align-items: center;
+    gap: 8px;
+}
+
+.DashboardHeaderRight p{
+    margin: 2px;
+    text-align: right;
+}
+
+.Icons{
+    font-size: 2.5rem !important;
+    margin: 0 5px;
+}
+
+.StudentHeader{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.ImageContainer{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    grid-gap: 10px;
+}

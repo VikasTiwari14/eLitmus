@@ -1,0 +1,14 @@
+.UserDetailForm, .RequirementCheck{
+    display: grid;
+    padding: 20px;
+}
+
+.MaterialInput{
+    width: 300px;
+    margin: 10px auto !important;
+}
+
+.MaterialButton{
+    padding: 10px !important;
+    margin: 10px 0 !important;
+}

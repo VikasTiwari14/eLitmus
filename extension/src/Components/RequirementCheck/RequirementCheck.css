@@ -1,0 +1,10 @@
+.RequirementCheck{
+    display: grid;
+    align-items: center;
+}
+
+.CheckSupport{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
