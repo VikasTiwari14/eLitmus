@@ -1,8 +1,6 @@
 # eLitmus-Assessment
 
 First you have to clone this repository from github to your local system.
-For better understanding of setup procedure you can refer this video.
-
 
 After Cloning process is done you will end with the following folder hierarchy :
 eLitmus
